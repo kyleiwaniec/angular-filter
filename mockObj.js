@@ -1,8 +1,6 @@
 
 var mockObj = {
-
     groupList : {
-      data : {
         "apiResult": "success",
         "class": "iq4.model.QueryResult",
         "itemType": null,
@@ -628,10 +626,8 @@ var mockObj = {
             }
         ],
         "totalRows": 14
-        }
     },
     projectList : {
-      data : {
         "apiResult": "success",
         "class": "iq4.model.QueryResult",
         "itemType": null,
@@ -1127,6 +1123,4 @@ var mockObj = {
         "totalRows": 11
 
       }
-    }
-    
 }
